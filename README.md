@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Clavinb2
 - 👀 I’m a current COMBUS student at DCU
--  I’m currently learning Python, C and SQL in my own time, along with whatever I do in college.
+-  I’m currently learning Python, C# and SQL in my own time, along with whatever I do in college.
 - You will see personal projects and course projects that I make at my time in DCU
